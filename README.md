@@ -33,7 +33,7 @@ python seed.py
 Run the server
 python app.py
 
-The API will run at http://localhost:5555
+The API will run at http://127.0.0.1:5000
 
 API Endpoints
 Heroes:
@@ -82,14 +82,6 @@ Allow deleting heroes/powers
 Add more hero information (like comics they appear in)
 
 Better error messages
-
-This README:
-
-Uses simpler language
-
-Shows the learning process
-
-Includes personal challenges
 
 Has a more "student project" feel
 
